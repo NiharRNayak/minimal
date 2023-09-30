@@ -10,9 +10,10 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Priject 1
+## Project 1
 
-Collection Transformation.
+# Collection Transformation.
+Collection transformation project is to migrate existing collection application to a new platform
 
 ## Project 2
 
